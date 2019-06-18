@@ -1,5 +1,5 @@
 # aoe3-complete-edition-fix
-Fix for the AOE3 Aisan Dynasties not showing Warchiefs Tribe. Required for prophet Releases.
+Fix for the AOE3 Aisan Dynasties not showing Warchiefs Tribe. Required for Prophet Release.
 
 Download the registry file according to your Windows Architecture and Run it as Admin.
 Enjoy!
