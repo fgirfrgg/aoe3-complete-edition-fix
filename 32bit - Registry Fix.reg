@@ -1,0 +1,17 @@
+Windows Registry Editor Version 5.00
+
+
+; Age of Empires III: The War Chiefs registry
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Microsoft Games\Age of Empires 3 Expansion Pack\1.0]
+
+"PID"="84807-700-0857521-60317"
+"DigitalProductID"=hex:4b,44,4a,4d,47,50,46,39,4a,42,42,59,51,33,56,48,36,39,37,51,43,57,47,48,43
+
+
+; Age of Empires III: The Asian Dynasties registry
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Microsoft Games\Age of Empires 3 Expansion Pack 2\1.0]
+
+"PID"="84807-700-0857521-60317"
+"DigitalProductID"=hex:4b,44,4a,4d,47,50,46,39,4a,42,42,59,51,33,56,48,36,39,37,51,43,57,47,48,43
